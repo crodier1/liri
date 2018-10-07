@@ -9,3 +9,7 @@ Example: node liri movie-this Toy Story
 
 -Type node concert-this musician name to find more information on your favorite band's upcomming concerts.
 Example: node liri concert-this Metallica
+
+
+![alt text](screen-shot.png)
+
