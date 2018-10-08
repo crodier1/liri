@@ -13,3 +13,5 @@ Example: node liri concert-this Metallica
 
 ![alt text](screen-shot.png)
 
+
+![alt text](screen-shot2.png)
